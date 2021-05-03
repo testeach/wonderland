@@ -1,0 +1,15 @@
+--- 
+title: "Alice"
+author: "Lewis and Carl"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+---
+
+# Down the rabbit-hole
+
+Two sentences to get going. 
+Well, that was only one sentence, sorry!
+Need to specify the 
+
+* check with : `browseURL("docs/index.html")`
+* 
