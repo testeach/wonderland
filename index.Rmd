@@ -12,6 +12,15 @@ Well, that was only one sentence, sorry!
 Need to specify the 
 
 * check with : `browseURL("docs/index.html")`
+
+# commit from command line
+
+
+
+# usage of Git for first update
+
+[Stackoverflow Ref](https://stackoverflow.com/questions/39399804/updates-were-rejected-because-the-tip-of-your-current-branch-is-behind-its-remot)
+
 * also need to force the update !! by going into the terminal, and first time, use: `git push -f origin master`
 * then you do a stage all, commit every time
 * and you can upload as it should be
