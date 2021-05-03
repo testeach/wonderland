@@ -13,4 +13,7 @@ Need to specify the
 
 * check with : `browseURL("docs/index.html")`
 * also need to force the update !! by going into the terminal, and first time, use: `git push -f origin master`
-* and this has been working
+* then you do a stage all, commit every time
+* and you can upload as it should be
+* 16h54, it works
+
