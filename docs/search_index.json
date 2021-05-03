@@ -1,5 +1,1 @@
-[
-["index.html", "YOUR TITLE HERE Chapter 1 Down the rabbit-hole", " YOUR TITLE HERE YOUR NAME HERE 2020-08-10 Chapter 1 Down the rabbit-hole "],
-["the-pool-of-tears.html", "Chapter 2 The pool of tears", " Chapter 2 The pool of tears "],
-["a-caucus-race-and-a-long-tale.html", "Chapter 3 A caucus-race and a long tale", " Chapter 3 A caucus-race and a long tale "]
-]
+[["index.html", "Alice Chapter 1 Down the rabbit-hole", " Alice Lewis and Carl 2021-05-03 Chapter 1 Down the rabbit-hole Two sentences to get going. Well, that was only one sentence, sorry! Need to specify the check with : browseURL(\"docs/index.html\") also need to force the update !! by going into the terminal but it looks like this is finally working "]]

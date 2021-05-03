@@ -12,4 +12,5 @@ Well, that was only one sentence, sorry!
 Need to specify the 
 
 * check with : `browseURL("docs/index.html")`
-* 
+* also need to force the update !! by going into the terminal
+* but it looks like this is finally working
